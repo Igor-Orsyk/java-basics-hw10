@@ -17,7 +17,7 @@ public class ExampleExceptionTest {
         {2, 2, 4},
         {2, 3, 6},
             {5, 2, 10},
-            {20, 20, 40},
+            {20, 20, 400},
     };
   }
 
